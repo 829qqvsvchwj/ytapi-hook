@@ -1,7 +1,8 @@
 # ytapi-hook
 Open embed API for You Tube videos.
-https://i.creativecommons.org/p/zero/1.0/88x31.png
-This repository and everything within is in the public domain in all applicable regions and avalible under Creative Commons Zero otherwhere.
+
+![This repository and everything within is in the public domain in all applicable regions and avalible under Creative Commons Zero otherwhere.](https://i.creativecommons.org/p/zero/1.0/88x31.png)
+This repository and everything within is in the public domain in all applicable regions and available under Creative Commons Zero otherwhere.
 
 # Backend
 
